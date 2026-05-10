@@ -4,7 +4,7 @@ A clean and responsive React landing page inspired by the ALLEN ASAT online cour
 
 ## Overview
 
-This project is a frontend practice clone built using React. It recreates the structure and feel of an educational landing page with a modern layout, strong call-to-action sections, a registration form, course cards, benefits, steps, and an interactive FAQ section.
+This project is a frontend practice clone built using React. It recreates the structure and feel of an educational landing page with a modern layout, strong call-to-action sections, a registration form, benefits, course cards, steps, and an interactive FAQ section.
 
 The main goal of this project is to practice building a real-world styled landing page using simple React concepts without making the code too advanced.
 
@@ -43,3 +43,22 @@ src/
   App.jsx
   AllenLandingPage.jsx
   allen-landing.css
+How to Run
+npm install
+npm run dev
+Then open the localhost link shown in the terminal.
+
+Purpose of the Project
+This project was created for frontend practice and portfolio improvement. It is a simplified educational landing page clone made to strengthen layout building, reusable section design, and React fundamentals.
+
+Future Improvements
+Add proper form validation
+Add animations and transitions
+Improve mobile responsiveness further
+Add footer and more navigation sections
+Connect form with backend in future
+Author
+Swastik Jha
+
+License
+This project is made for learning and practice purposes.
